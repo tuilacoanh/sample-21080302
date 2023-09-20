@@ -21,7 +21,7 @@ body{
 .thumbnail img {
     width: 100%;
     height: 100%;
-    transition-duration: 0.3s;
+    transition-duration:0.3s;
 }
 
 .thumbnail img:hover {
@@ -50,7 +50,7 @@ border:1px;border-radius:10px;"><a href="https://www.facebook.com/profile.php?id
 <center><p><br>Xin chào, mình là Nguyễn Quỳnh Anh, thành viên nhóm <b><span class="note">Ferb - Phineas's friend!</span></b></br>
 <br>Mình là sinh viên năm 2 chuyên ngành Quản trị và An ninh, trường Quản trị và Kinh doanh - ĐHQGHN.</br>
 <br><a href ="https://hsb.edu.vn/"> Về trường mình <a/></br>
-<br>Và dưới đây là đôi chút về bản thân mình 🥰 </p></br></center>
+<br>Và dưới đây là đôi chút về bản thân mình </p></br></center>
 <center><h1 style="color:#874cd4;font-size:25px";>My Family</h1></center>
 <center><table border="0px"></br>
 	<tr>
