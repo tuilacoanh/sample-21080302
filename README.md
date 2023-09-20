@@ -1,5 +1,4 @@
 # sample-21080302
-<!DOCTYPE html>
 <html>
 <head>
 <style>
